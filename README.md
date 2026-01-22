@@ -81,7 +81,3 @@ O acesso ao site pelo nome de domínio foi testado com sucesso via linha de coma
 ## Conclusão
 
 Todos os objetivos do laboratório foram alcançados com sucesso. O servidor Apache está funcionando corretamente, o BIND9 resolve o domínio `empresa.local`, e o acesso à página web ocorre tanto via IP quanto via nome de domínio, conforme solicitado no enunciado da prática.
-
----
-
-📁 **Observação:** Os prints comprobatórios de cada etapa estão disponíveis na pasta `prints/` do repositório.
